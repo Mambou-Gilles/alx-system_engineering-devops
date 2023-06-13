@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo $(($BREAT^$LOVE)) | bc
+echo -n $(($BREATH**$LOVE))
